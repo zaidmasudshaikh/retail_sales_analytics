@@ -1,6 +1,8 @@
 # Retail Sales Intelligence & Profitability Analytics
 
-A GUI-based **Data Analytics, Visualization and Predictive Analytics** project built with the Sample Superstore dataset.
+An interactive Data Analytics and Visualization project built using Python, Pandas, Plotly, and Streamlit to analyze retail sales, profitability, customer behavior, regional performance, and monthly sales forecasts.
+
+🚀 Live Demo: https://retailsalesintelligence.streamlit.app/
 
 ## Project Objective
 
